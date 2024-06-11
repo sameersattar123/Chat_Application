@@ -34,6 +34,38 @@ const Chat = () => {
             <span>1 min ago</span>
           </div>
         </div>
+        <div className="message own">
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel exercitationem quisquam sint nam fugit assumenda dolorum error ab omnis, maiores aliquid veritatis alias? Expedita, nulla mollitia reprehenderit laborum laboriosam quidem.</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel exercitationem quisquam sint nam fugit assumenda dolorum error ab omnis, maiores aliquid veritatis alias? Expedita, nulla mollitia reprehenderit laborum laboriosam quidem.</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel exercitationem quisquam sint nam fugit assumenda dolorum error ab omnis, maiores aliquid veritatis alias? Expedita, nulla mollitia reprehenderit laborum laboriosam quidem.</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel exercitationem quisquam sint nam fugit assumenda dolorum error ab omnis, maiores aliquid veritatis alias? Expedita, nulla mollitia reprehenderit laborum laboriosam quidem.</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel exercitationem quisquam sint nam fugit assumenda dolorum error ab omnis, maiores aliquid veritatis alias? Expedita, nulla mollitia reprehenderit laborum laboriosam quidem.</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
       </div>
       <div className="bottom">
         <div className="icons">
